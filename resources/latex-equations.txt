@@ -1,0 +1,15 @@
+\begin{equation}
+\\
+\vspace{2mm}
+P_t &=& P_{t-1}\ +\ \Delta P \qquad& \mbox{(sheep)} \\
+\vspace{8mm}
+F_t &=& F_{t-1}\ +\ \Delta F \qquad& \mbox{(tons of grass)} \\
+\vspace{2mm}
+\Delta P \,&=& \alpha \cdot F_{t-1} \qquad& \mbox{(sheep per month)} \\
+\vspace{8mm}
+\Delta F \,&=& -\beta \cdot P_{t-1} \qquad& \mbox{(tons per month)} \\
+\vspace{2mm}
+\alpha &=&\ \mbox{reproduction rate} \qquad& \\
+\vspace{2mm}
+\beta&=&\ \mbox{consumption rate} \qquad& \\
+\end{equation}
